@@ -31,3 +31,5 @@ You're supposed to have [Jekyll](http://jekyllrb.com/) installed globally. This 
 * All code made by ZOFE team is MIT.
 * All code used by ZOFE team but not crafted by ZOFE team have it's own license, check that out before using.
 * Posts, page content and all media made by ZOFE team belong to ZOFE team. Ask before doing something with it.
+
+<!-- QA Wolf PR testing validation 20260624205656 -->
