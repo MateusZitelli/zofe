@@ -31,3 +31,11 @@ You're supposed to have [Jekyll](http://jekyllrb.com/) installed globally. This 
 * All code made by ZOFE team is MIT.
 * All code used by ZOFE team but not crafted by ZOFE team have it's own license, check that out before using.
 * Posts, page content and all media made by ZOFE team belong to ZOFE team. Ask before doing something with it.
+
+<!-- QA Wolf PR testing validation: add https://www.qawolf.com/automation-ai page 20260703203333 -->
+
+<!-- QA Wolf PR testing validation rerun for PR 91: 20260703204942 -->
+
+<!-- QA Wolf PR testing validation rerun for PR 91: 20260703205145 -->
+
+<!-- QA Wolf PR testing validation rerun: route local Apex worker 20260703210611 -->
